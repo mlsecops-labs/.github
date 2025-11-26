@@ -27,28 +27,6 @@ Our work is grounded in security engineering discipline, shaped by real systems,
 
 ---
 
-> **AI-Assisted Engineering Disclosure**
->
-> This project was developed using a **hybrid workflow** that combines:
->
-> * Human-driven engineering
-> * AI-assisted drafting, coding, review, and research
-> * Manual validation, correction, and iteration by the author
->
-> AI tools were used as **assistants**, not autonomous agents.
-> All infrastructure, configurations, testing, integrations, and final decisions were performed by the author in a **hands-on, human-led manner**.
-> 
-> The goals for AI-assisted development were:
-> * Accelerating experimentation
-> * Exploring multiple design/attack/defense patterns
-> * Reducing boilerplate work
-> * Improving clarity and documentation
-> * Learning through guided iteration
->
-> Every module, configuration, and implementation was manually validated and reproduced to ensure understanding, accuracy, and transparency.
-
----
-
 ## **Projects**
 
 ### **📘 MLSecOps Field Manual™**
@@ -87,6 +65,28 @@ Our philosophy:
 are unregistered trademarks of **Richard Spicer**.
 
 These marks may be referenced to describe this organization and its projects, but may not be used in a way that implies endorsement or official affiliation.
+
+---
+
+## **AI-Assisted Engineering Disclosure**
+
+This project was developed using a **hybrid workflow** that combines:
+
+* Human-driven engineering
+* AI-assisted drafting, coding, review, and research
+* Manual validation, correction, and iteration by the author
+
+AI tools were used as **assistants**, not autonomous agents.
+All infrastructure, configurations, testing, integrations, and final decisions were performed by the author in a **hands-on, human-led manner**.
+
+The goals for AI-assisted development were:
+* Accelerating experimentation
+* Exploring multiple design/attack/defense patterns
+* Reducing boilerplate work
+* Improving clarity and documentation
+* Learning through guided iteration
+
+Every module, configuration, and implementation was manually validated and reproduced to ensure understanding, accuracy, and transparency.
 
 ---
 
