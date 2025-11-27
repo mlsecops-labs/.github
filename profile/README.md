@@ -13,7 +13,7 @@ Research • Field Guides • Modules • Lab-Driven Evidence
 
 ## **About**
 
-MLSecOps Labs™ is a technical organization dedicated to advancing the security of machine-learning systems through **evidence-driven engineering**, **reproducible experiments**, and **operational guidance**.
+MLSecOps Labs™ is a technical organization dedicated to advancing the security of machine-learning systems.
 
 We maintain a private lab where every pattern, module, lesson, and failure mode is first tested in realistic environments. Mature insights then flow into:
 
