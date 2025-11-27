@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# **MLSecOps Labs™**
-
 **Applied Machine Learning Security Operations**  
 Research • Field Guides • Modules • Lab-Driven Evidence
 
