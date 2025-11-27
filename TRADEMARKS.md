@@ -1,6 +1,6 @@
 # Trademarks
 
-**MLSecOps Labs™** and **MLSecOps Field Manual™** are unregistered trademarks of Richard Spicer.
+**MLSecOps Labs™**, **MLSecOps Field Manual™**, and **Vigilis in Machina™** are unregistered trademarks of Richard Spicer.
 
 You are free to reference these names to describe the projects, as long as such use:
 
