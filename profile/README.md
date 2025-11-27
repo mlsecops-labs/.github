@@ -97,3 +97,5 @@ Every module, configuration, and implementation was manually validated and repro
 
 <p align="center">
   <sub>© MLSecOps Labs™ — Research, Evidence, and Practice for Secure ML
+<p align="center">
+  <sub> Vigilis in Machina™
