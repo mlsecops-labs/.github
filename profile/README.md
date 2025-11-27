@@ -56,6 +56,7 @@ To provide **reproducible, operational clarity** in securing machine-learning sy
 
 - **MLSecOps Labs™**  
 - **MLSecOps Field Manual™**
+- - **Vigilis in Machina™**
 
 are unregistered trademarks of **Richard Spicer**.
 
