@@ -6,7 +6,7 @@
 
 ## About This Work
 
-All content is developed through systematic experimentation in a private MLSecOps lab. Each module is tested, validated, and documented before publication.
+All content is developed through systematic experimentation in a private MLSecOps lab. Each domain is tested, validated, and documented before publication.
 
 Work follows these principles:
 - Lean, reproducible, fact-driven
@@ -22,7 +22,7 @@ This project uses AI tools for:
 - Code assistance and troubleshooting
 - Research and learning support
 
-All infrastructure, experiments, and final decisions are human-led. Every module is manually validated and reproduced to ensure accuracy.
+All infrastructure, experiments, and final decisions are human-led. Every artifact is manually validated and reproduced to ensure accuracy.
 
 ---
 
