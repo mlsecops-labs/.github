@@ -1,17 +1,20 @@
 # MLSecOps Labs
 
-**Security engineer learning ML security through hands-on lab work.**
+**AI/ML security research — discovering vulnerabilities, building detection, publishing findings.**
 
 ---
 
-## About This Work
+## About
 
-All content is developed through systematic experimentation in a private MLSecOps lab. Each domain is tested, validated, and documented before publication.
+A research platform for AI/ML threat intelligence. Work focuses on:
+- Novel vulnerability discovery in AI/ML systems
+- Detection engineering for AI-specific threats
+- Validated, reproducible research artifacts
 
-Work follows these principles:
-- Lean, reproducible, fact-driven
+Principles:
+- Hypothesis-driven investigation
 - Lab-validated before publishing
-- Evidence-based, no hype
+- Depth over breadth
 
 ---
 
@@ -22,7 +25,7 @@ This project uses AI tools for:
 - Code assistance and troubleshooting
 - Research and learning support
 
-All infrastructure, experiments, and final decisions are human-led. Every artifact is manually validated and reproduced to ensure accuracy.
+All infrastructure, experiments, and final decisions are human-led. Every artifact is manually validated.
 
 ---
 
